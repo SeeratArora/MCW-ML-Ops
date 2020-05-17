@@ -8,7 +8,6 @@ In this exercise, you create a model for classifying component text as compliant
 
 ### Task 1: Setup the notebooks environment
 
-1. Download the [**Deep Learning with Text.ipynb**](./notebooks/Deep&#32;Learning&#32;with&#32;Text.ipynb) notebook to your computer, by selecting the **Raw** view in GitHub, and then **right-click + Save as**. This is the notebook you will step through executing in this lab.If you are not able to  redirected to the path provided in link you can go to Labguide icon provided in the Desktop of Your Virtual Machine, go to **Hands on Lab** , select **Hol step-by-step** go to the step where you are accesing the path of file and performing the steps.  
 
 2. Sign in to [Azure Machine Learning studio](https://ml.azure.com).
 
@@ -28,7 +27,7 @@ In this exercise, you create a model for classifying component text as compliant
 
     ![On the Notebooks screen, beneath user files, the folder of the current user is expanded displaying the folder that was created in the previous step. The Upload files icon is highlighted in the top toolbar.](media/notebook-02.png 'Upload notebook to the workspace file share')
 
-8. Browse for the downloaded notebook, **Deep Learning with Text.ipynb** and then select **MCW-MLOps** folder as the target folder. Select **Upload**.
+8. Browse for the downloaded notebook, Go to **C:/MCW-MLOps** directory and select **Deep Learning with Text.ipynb** and then select **MCW-MLOps** folder as the target folder. Select **Upload**.
 
 9. Select the notebook. Select **+ New Compute** to create the compute instance VM.
 
