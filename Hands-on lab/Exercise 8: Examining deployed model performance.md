@@ -10,7 +10,7 @@ In this exercise, you learn how to monitor the performance of a deployed model.
 
 2. In the Azure Machine Learning Studio, navigate to **Notebooks**, and select **Upload files** option in the top menu.
 
-3. Browse your local computer for the downloaded notebook, **Model Telemetry.ipynb** and then select **MCW-MLOps** folder as the target folder. Select **Upload**.If you are not able to  redirected to the path provided in link you can go to Labguide icon provided in the Desktop of Your Virtual Machine, go to **Hands on Lab** , select **Hol step-by-step** go to the step where you are accesing the path of file and performing the steps.
+3. Browse your local computer for the downloaded notebook, **Model Telemetry.ipynb** and then select **MCW-MLOps** folder as the target folder. Select **Upload**.This is the notebook you will step through executing in this exercise.
 
 4. On the top bar, select the **notebooks-compute** compute instance to use to run the notebook. Select **Edit in, Jupyter** or **Edit in, JupyterLab**.
 
