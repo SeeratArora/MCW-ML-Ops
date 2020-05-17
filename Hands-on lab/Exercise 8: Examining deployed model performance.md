@@ -6,9 +6,7 @@ In this exercise, you learn how to monitor the performance of a deployed model.
 
 ### Task 1: Activate App Insights and data collection on the deployed model
 
-1. Download the [**Model Telemetry.ipynb**](./notebooks/Model&#32;Telemetry.ipynb) notebook to your computer, by selecting the **Raw** view in GitHub, and then **right-click + Save as**. This is the notebook you will step through executing in this exercise.
-
-2. In the Azure Machine Learning Studio, navigate to **Notebooks**, and select **Upload files** option in the top menu.
+1. In the Azure Machine Learning Studio, navigate to **Notebooks**, and select **Upload files** option in the top menu.
 
 3. Browse your local computer for the downloaded notebook, **Model Telemetry.ipynb** and then select **MCW-MLOps** folder as the target folder. Select **Upload**.This is the notebook you will step through executing in this exercise.
 
