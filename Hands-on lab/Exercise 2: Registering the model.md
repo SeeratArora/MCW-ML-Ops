@@ -2,14 +2,14 @@
 
 Duration: 15 minutes
 
-In this exercise, you explore the approaches you can take to managing the model versions, their association with Experiment Runs, and how you can retrieve the models both programmatically and via the **Azure Machine Learning studio** *https://ml.azure.com*.
+In this exercise, you explore the approaches you can take to managing the model versions, their association with Experiment Runs, and how you can retrieve the models both programmatically and via the **Azure Machine Learning studio** *ml.azure.com*.
 
 ### Task 1: Register Model using Azure Machine Learning Python SDK
 
 
 2. In the ML Studio, navigate to **Notebooks**, and select **Upload files** option in the top menu.
 
-3. Browse your local computer **C:/MCW-MLOps** directory for open the notebook, **Register Model.ipynb** and then select **MCW-MLOps** as the target folder. Select **Upload**.
+3. Click on upload files butoon and go to **C:/MCW-MLOps/notebooks** directory and select **Register Model.ipynb** and then select **MCW-MLOps** as the target folder. Select **Upload**.
 
 4. On the top bar, select the **notebooks-compute** compute instance to use to run the notebook. Select **Edit in, Jupyter** or **Edit in, JupyterLab**.
 
