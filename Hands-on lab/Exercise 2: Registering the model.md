@@ -15,7 +15,7 @@ In this exercise, you explore the approaches you can take to managing the model 
 
 5. Follow the instructions within the notebook to complete the lab.
 
-6. Navigate back to the **Azure Machine Learning studio**, either directly or via the [Azure Portal](https://portal.azure.com). Make sure you select the Azure Machine Learning workspace that you created from the notebook. Open your **Models** section, and observe the **version 1** of the registered model: `compliance-classifier`.
+6. Navigate back to the **Azure Machine Learning studio**, either directly or via the **Azure Portal**. Make sure you select the Azure Machine Learning workspace that you created from the notebook. Open your **Models** section, and observe the **version 1** of the registered model: `compliance-classifier`.
 
     ![In Azure Machine Learning Studio, from the left menu, Models is selected. In the Model List, the compliance-classifier with the version of 1 is highlighted.](media/model-registry-01.png 'Registered Model: compliance-classifier')
 
