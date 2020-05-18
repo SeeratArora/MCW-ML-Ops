@@ -9,7 +9,7 @@ In this exercise, you create a model for classifying component text as compliant
 ### Task 1: Setup the notebooks environment
 
 
-2. Sign in to [Azure Machine Learning studio](https://ml.azure.com).
+2. Sign in to **Azure Machine Learning studio** *https://ml.azure.com*.
 
 3. Select your subscription and the workspace you have available.
 
@@ -27,7 +27,7 @@ In this exercise, you create a model for classifying component text as compliant
 
     ![On the Notebooks screen, beneath user files, the folder of the current user is expanded displaying the folder that was created in the previous step. The Upload files icon is highlighted in the top toolbar.](media/notebook-02.png 'Upload notebook to the workspace file share')
 
-8. Browse for the downloaded notebook, Go to **C:/MCW-MLOps** directory and select **Deep Learning with Text.ipynb** and then select **MCW-MLOps** folder as the target folder. Select **Upload**.
+8. Browse for the already downloaded notebook, Go to **C:/MCW-MLOps** directory and select **Deep Learning with Text.ipynb** and then select **MCW-MLOps** folder as the target folder. Select **Upload**.
 
 9. Select the notebook. Select **+ New Compute** to create the compute instance VM.
 
@@ -57,7 +57,7 @@ In this exercise, you create a model for classifying component text as compliant
 
 1. Follow the instructions within the notebook to complete the lab.
 
-2. Back to the [Azure Machine Learning Studio](https://ml.azure.com), in **Notebooks**, under the **MCW-MLOps** folder, navigate to the **model** folder and download the **model.onnx** file to your local disk. We will use the downloaded model file in the next exercise.
+2. Back to the **Azure Machine Learning studio**, in **Notebooks**, under the **MCW-MLOps** folder, navigate to the **model** folder and download the **model.onnx** file to your local disk. We will use the downloaded model file in the next exercise.
 
    > **Note**: If the downloaded file name is changed to **utf-8 model.onnx** or **notebooks_model_model.onnx**, then rename the file back to `model.onnx`.
 
