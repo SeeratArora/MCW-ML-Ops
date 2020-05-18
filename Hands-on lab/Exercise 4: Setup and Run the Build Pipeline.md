@@ -66,7 +66,7 @@ Duration: 25 minutes
 
 ### Task 4: Review Build Outputs
 
-1. Log in to [Azure Machine Learning studio](https://ml.azure.com) either directly or via the [Azure Portal](https://portal.azure.com). Make sure you select the Azure Machine Learning workspace that you created from the notebook earlier. Open your **Models** section, and observe the versions of the registered model: **compliance-classifier**. The latest version is the one registered by the build pipeline you ran in the previous task.
+1. Log in to **Azure Machine Learning studio browsing** *ml.azure.com* either directly or via the **Azure Portal**. Make sure you select the Azure Machine Learning workspace that you created from the notebook earlier. Open your **Models** section, and observe the versions of the registered model: **compliance-classifier**. The latest version is the one registered by the build pipeline you ran in the previous task.
 
     ![In Azure Machine Learning Studio, models is selected in the left menu. A list of multiple versions of the compliance-classifier model is displayed in the Model list table with the largest version of the model highlighted in the table.](media/devops-build-outputs-01.png 'Registered Models in Azure Machine Learning studio')
 
@@ -86,6 +86,6 @@ Duration: 25 minutes
 
     ![A list of registered models that reference the selected dataset is displayed.](media/devops-build-outputs-05.png 'Registered dataset model references in Azure Machine Learning studio')
 
-6. Log in to the [Azure Portal](https://portal.azure.com), open your **Resource Group, Workspace, Images** section, and observe the deployment image created during the build pipeline: `compliance-classifier-image`.
+6. Log in to the Azure Portal, open your **Resource Group, Workspace, Images** section, and observe the deployment image created during the build pipeline: `compliance-classifier-image`.
 
     ![In the Images resource page, Images is selected from the left menu, and a list of Images is displayed. Multiple compliance-classifier-image images are shown with their associated versions. The latest version image is highlighted in the table.](media/devops-build-outputs-06.png 'Images in Azure Portal')
