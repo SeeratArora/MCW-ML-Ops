@@ -8,7 +8,7 @@ In this exercise, you learn how to monitor the performance of a deployed model.
 
 1. In the Azure Machine Learning Studio, navigate to **Notebooks**, and select **Upload files** option in the top menu.
 
-3. Browse your local computer for the downloaded notebook, **Model Telemetry.ipynb** and then select **MCW-MLOps** folder as the target folder. Select **Upload**.This is the notebook you will step through executing in this exercise.
+3.  Click on upload files butoon and go to **C:/MCW-MLOps/notebooks** directory and select **Model Telemetry.ipynb** and then select **MCW-MLOps** folder as the target folder. Select **Upload**.This is the notebook you will step through executing in this exercise.
 
 4. On the top bar, select the **notebooks-compute** compute instance to use to run the notebook. Select **Edit in, Jupyter** or **Edit in, JupyterLab**.
 
@@ -18,7 +18,7 @@ In this exercise, you learn how to monitor the performance of a deployed model.
 
 ### Task 2: Check Application Insights telemetry
 
-1. Navigate to the [Azure portal](https://portal.azure.com) and locate the resource group you created for this lab (the one where the Azure Machine Learning service workspace was created in).
+1. Navigate to the Azure portal and locate the resource group you created for this lab (the one where the Azure Machine Learning service workspace was created in).
 
 2. Locate the Application Insights instance in the resource group and select it.
 
@@ -44,7 +44,7 @@ In this exercise, you learn how to monitor the performance of a deployed model.
 
 ### Task 3: Check the data collected
 
-1. Navigate to the [Azure portal](https://portal.azure.com) and locate the resource group you created for this lab (the one where the Azure Machine Learning service workspace was created in).
+1. Navigate to the Azure portal and locate the resource group you created for this lab (the one where the Azure Machine Learning service workspace was created in).
 
 2. Locate the Storage Account instance in the resource group and select it.
 
